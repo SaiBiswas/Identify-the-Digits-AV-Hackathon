@@ -1,2 +1,2 @@
 # Identify-the-Digits-AV-Hackathon
-In this Repo, we will apply Deep Learning using Keras Library to classify the data into respective digits
+In this Repo, we will see the differnce between Pytorch and Numpy and create a basic Neural Network for the Dataset.
